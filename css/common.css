@@ -1,0 +1,9 @@
+@import url(_reset.css);
+/* @import url("https://fonts.googleapis.com/css2?family=Bitter&family=Source+Sans+Pro&display=swap"); */
+/* ---------- color scheme ---------- */
+:root {
+  --border-color: #d7d7d7; /* var(--highlight-color) */
+  --main-text-color: #2b2b2b;
+  --sec-text-color: #687078;
+  --sec-bg-color: #f7f7f7;
+}
